@@ -1,24 +1,25 @@
 html {
-  font-family: monospace, "Times New Roman", Times, serif;
+  font-family: "Segoe UI", "Times New Roman", Times, serif;
   background-color: #1a1b26;
-  color: white;
+  color: #ebebeb;
 }
 
 body {
-  font-size: medium;
+  font-size: large;
   padding: 1rem;
   margin: auto;
   max-width: 80vw;
 }
 
-main {
+/*main {
   margin: auto 5%;
 }
-
+*/
 a {
   color: #7aa2f7;
 }
 
 .home-bttn {
   font-size: larger;
+  font-weight:bold;
 }
